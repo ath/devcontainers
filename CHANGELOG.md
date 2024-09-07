@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changes
 - Established AI specs for AI assistance
 - Added reference files in the ai_specs directory
+- Added Dockerfile for Flutter development environment
+- Added README.md for project documentation
 
 ## [0.1.0] - 2024-01-17
 ### Added
@@ -15,4 +17,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added LICENSE file
 
 ## Versioning
-This project follows Semantic Versioning, which helps in understanding the scope of changes made between releases.
+This project follows Semantic Versioning, which helps in understanding the
+scope of changes made between releases.
