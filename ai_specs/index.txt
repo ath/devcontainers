@@ -1,0 +1,40 @@
+# Index File
+
+This index file serves as an overview of the contents within the
+ai_specs directory. The following files are included:
+
+
+
+## devcontainer-reference_2024-01-17.md
+This document provides specifications for development containers,
+inclusive of how to set up and manage development environments
+using metadata. It emphasizes best practices for using containers
+effectively.
+
+
+
+## keep_a_changelog_1.1.0.html.haml
+This file offers guidance on maintaining a changelog for a project.
+It outlines best practices for documenting changes made to project
+versions, ensuring clarity for users and contributors.
+
+It is important to keep the changelog up to date whenever changes are made.
+Constant maintenance of the changelog file ensures users are aware of what has
+changed in each version.
+
+The Changelog will always be written in english.
+
+
+
+## semver_2.0.0.md
+This document outlines the principles of Semantic Versioning
+(SemVer), detailing how version numbers should be assigned based
+on the changes made. It explains the importance of having a well-
+definied public API and the impact of versioning on software
+management.
+
+
+
+# LLM instructions
+The LLM may choose to read any of these documents as needed to gain
+insights or reference the information contained within.
